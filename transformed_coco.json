@@ -1,0 +1,21 @@
+{
+  "info": {
+    "description": "Transformed Images",
+    "date_created": "2025-07-24T08:02:20.246545"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "output.jpg",
+      "width": 640,
+      "height": 480,
+      "original_width": 640,
+      "original_height": 480,
+      "transformed_width": 1333,
+      "transformed_height": 1000,
+      "transformed_path": "transformed_output.jpg"
+    }
+  ],
+  "annotations": [],
+  "categories": []
+}
