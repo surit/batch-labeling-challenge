@@ -1,1 +1,1 @@
-Test results in test folder.
+Test results in tests folder.
